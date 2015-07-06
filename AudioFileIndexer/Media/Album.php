@@ -1,9 +1,9 @@
 <?php
 
-namespace AudioFilesIndexer\Media;
+namespace AudioFileIndexer\Media;
 
-use AudioFilesIndexer\Filesystem\Directory;
-use AudioFilesIndexer\Media\Track\Track;
+use AudioFileIndexer\Filesystem\Directory;
+use AudioFileIndexer\Media\Track\Track;
 
 class Album
 {

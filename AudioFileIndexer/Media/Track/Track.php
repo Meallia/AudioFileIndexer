@@ -1,9 +1,9 @@
 <?php
 
-namespace AudioFilesIndexer\Media\Track;
+namespace AudioFileIndexer\Media\Track;
 
-use AudioFilesIndexer\Filesystem\File;
-use AudioFilesIndexer\Media\Album;
+use AudioFileIndexer\Filesystem\File;
+use AudioFileIndexer\Media\Album;
 
 use \GetId3\GetId3Core as GetId3;
 

@@ -1,12 +1,12 @@
 <?php
 
-namespace AudioFilesIndexer\Media\Track;
+namespace AudioFileIndexer\Media\Track;
 
 
-use AudioFilesIndexer\Filesystem\File;
-use AudioFilesIndexer\Media\Track\FlacTrack;
-use AudioFilesIndexer\Media\Track\Mp3Track;
-use AudioFilesIndexer\Media\Track\Track;
+use AudioFileIndexer\Filesystem\File;
+use AudioFileIndexer\Media\Track\FlacTrack;
+use AudioFileIndexer\Media\Track\Mp3Track;
+use AudioFileIndexer\Media\Track\Track;
 
 class TrackFactory
 {

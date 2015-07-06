@@ -1,6 +1,6 @@
 <?php
 
-namespace AudioFilesIndexer\Media\Track;
+namespace AudioFileIndexer\Media\Track;
 
 
 class Mp3Track extends Track

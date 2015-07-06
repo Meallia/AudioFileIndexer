@@ -1,13 +1,13 @@
 <?php
 
-namespace AudioFilesIndexer;
+namespace AudioFileIndexer;
 
-use AudioFilesIndexer\Media\Album;
-use AudioFilesIndexer\Media\Artist;
-use AudioFilesIndexer\Filesystem\Directory;
-use AudioFilesIndexer\Media\Disc;
+use AudioFileIndexer\Media\Album;
+use AudioFileIndexer\Media\Artist;
+use AudioFileIndexer\Filesystem\Directory;
+use AudioFileIndexer\Media\Disc;
 
-use AudioFilesIndexer\Media\Track\TrackFactory;
+use AudioFileIndexer\Media\Track\TrackFactory;
 
 class Scanner
 {

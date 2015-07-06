@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8465e8b0ebd407ded93d88446cf89a86",
+    "hash": "3aac757fc91f197145ee8c6a374d7c2e",
     "packages": [
         {
             "name": "phansys/getid3",

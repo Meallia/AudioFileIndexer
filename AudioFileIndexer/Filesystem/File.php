@@ -1,6 +1,6 @@
 <?php
 
-namespace AudioFilesIndexer\Filesystem;
+namespace AudioFileIndexer\Filesystem;
 
 class File
 {

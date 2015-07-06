@@ -1,6 +1,6 @@
 <?php
 
-namespace AudioFilesIndexer\Media;
+namespace AudioFileIndexer\Media;
 
 
 class Disc extends Album
