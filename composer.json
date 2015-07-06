@@ -1,0 +1,11 @@
+{
+  "name": "meallia/AudioFileIndexer",
+  "description": "Audio File indexing tool",
+  "homepage": "https://github.com/Meallia/AudioFileIndexer",
+  "autoload": {
+    "psr-4": {
+      "AudioFilesIndexer\\": "AudioFilesIndexer/"
+    }
+  },
+  "require": {"phansys/getid3": "2.1.*@dev"}
+}
