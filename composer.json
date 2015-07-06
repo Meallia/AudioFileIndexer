@@ -2,6 +2,7 @@
   "name": "meallia/audio-file-indexer",
   "description": "Audio File indexing tool",
   "homepage": "https://github.com/Meallia/audio-file-indexer",
+  "license": "LGPL-3.0+",
   "autoload": {
     "psr-4": {
       "AudioFileIndexer\\": "AudioFileIndexer/"
